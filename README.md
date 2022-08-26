@@ -9,8 +9,6 @@
       Criar um clone fo repositorio na maquina: <br>
       <span class="code">git clone https://github.com/nomedousuariodevoces/nomequevocesderamprofork</span>
     </li>
-    <li>Aqui eu não entendi exatamente se tinha que dar um <span class="code">git init</span> mas teve uma hora que eu fiz sem e ele disse que não era um repositório, então acabei colocando o comando.</li>
-    <li>
       Criar um novo branch: <br>
       <span class="code">git checkout -b nomedobranch</span>
     </li>
